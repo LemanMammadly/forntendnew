@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 30px;
+    color: rgb(104, 189, 189);
+}
+input{
+    padding: 10px 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid rgb(115, 154, 190);
+}
+#password{
+    margin-left: 23px;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:rgb(107, 161, 161);
+    border:1px solid rgb(115, 154, 190);
+}
+button:hover{
+    background-color:rgb(104, 189, 189);
+    color: rgb(255, 244, 244);
+}
+i{
+    cursor: pointer;
+}
